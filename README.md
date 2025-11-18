@@ -41,7 +41,7 @@ The project features a modern UI with custom styles (gradient headers, cards, ad
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sir-Churchill/game-studio.git
+   git clone https://github.com/Sir-Churchill/Game-Studio-Manager.git
    cd game_studio
 ## 🔑 Demo Login
 
